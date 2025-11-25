@@ -32,7 +32,7 @@ plt.figure(figsize=(16, 9))
 bars = plt.bar(wrapped_labels, values_million.values, color='pink')
 
 # Judul grafik
-plt.title("Perbandingan jumlah kategori kejahatan terbanya top 5 (2003 - 2023) ", fontsize=20, pad=20)
+plt.title("Perbandingan jumlah kategori kejahatan terbanyak top 5 (2003 - 2023) ", fontsize=20, pad=20)
 
 # Label sumbu X dan Y
 plt.xlabel("Kategori Kejahatan", fontsize=14)
