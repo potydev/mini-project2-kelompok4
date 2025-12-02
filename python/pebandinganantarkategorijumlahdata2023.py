@@ -52,4 +52,5 @@ plt.pie(
 
 plt.title("Proporsi Kasus Seksual per Kategori (2023)")
 plt.tight_layout()
+plt.savefig('perbandingan antar Kategori.png')
 plt.show()
